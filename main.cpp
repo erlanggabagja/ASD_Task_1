@@ -571,7 +571,6 @@ void check_group(int id) {
         string s = group_and_average(arr,n);
         cout<<"expected output: 5 3 5 2 4, average = 3.8"<<endl;
         cout<<"your output    : "<< s;
-
         break;
     }
     }
